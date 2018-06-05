@@ -2,13 +2,11 @@
 
 def countdown(number)
   
-  intNum = number
-  
-  while intNum >= 0
+  while number >= 0
     
-    puts "#{intNum} SECOND(S) !\n"
+    puts "#{number} SECOND(S) !\n"
     
-    intNum -= 1
+    number -= 1
     
   end
   
