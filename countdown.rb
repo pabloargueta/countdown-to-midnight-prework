@@ -6,7 +6,7 @@ def countdown(number)
   
   while intNum >= 0
     
-    puts "#{intNum} SECOND(S)!"
+    puts "#{intNum} SECOND(S) !"
     
     intNum -= 1
     
