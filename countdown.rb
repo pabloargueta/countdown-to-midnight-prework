@@ -1,6 +1,6 @@
 #write your code here
 
-def countdown (number)
+def countdown(number)
   
   intNum = number
   
